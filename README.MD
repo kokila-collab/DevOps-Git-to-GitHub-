@@ -6,3 +6,5 @@ Hello world
 5
 
 Login feature has been added to the project
+=======
+Payment feature has been added to the Project
